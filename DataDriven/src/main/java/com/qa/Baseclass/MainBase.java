@@ -18,4 +18,6 @@ public class MainBase {
 	public void TearDown() {
 		driver.close();
 	}
+	public void newFunc(){
+	}
 }
