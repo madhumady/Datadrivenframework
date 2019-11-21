@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="spiceject applicaion test">
+<test name="checking registration page">
+<parameter name="firstname" value="maya"/>
+<parameter name="lastname" value="lange"/>
+<classes>
+<class name="com.qa.tests.DataDrivenTest"></class>
+</classes>
+</test>
+</suite>

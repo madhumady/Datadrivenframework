@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [spiceject applicaion test]">
+  <parameter name="firstname" value="maya"/>
+  <parameter name="lastname" value="lange"/>
+  <test name="checking registration page">
+    <parameter name="firstname" value="maya"/>
+    <parameter name="lastname" value="lange"/>
+    <classes>
+      <class name="com.qa.tests.DataDrivenTest"/>
+    </classes>
+  </test> <!-- checking registration page -->
+</suite> <!-- Failed suite [spiceject applicaion test] -->

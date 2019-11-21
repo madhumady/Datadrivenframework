@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="spiceject applicaion test" duration-ms="142745" started-at="2019-11-21T08:50:45Z" finished-at="2019-11-21T08:53:07Z">
+    <groups>
+    </groups>
+    <test name="checking registration page" duration-ms="142745" started-at="2019-11-21T08:50:45Z" finished-at="2019-11-21T08:53:07Z">
+      <class name="com.qa.tests.DataDrivenTest">
+        <test-method status="PASS" signature="initializingBrowser()[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="initializingBrowser" is-config="true" duration-ms="32812" started-at="2019-11-21T14:20:49Z" finished-at="2019-11-21T14:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializingBrowser -->
+        <test-method status="PASS" signature="FormFilling(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="FormFilling" duration-ms="3877" started-at="2019-11-21T14:21:22Z" data-provider="getData" finished-at="2019-11-21T14:21:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[catalon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormFilling -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="tearDown" is-config="true" duration-ms="3465" started-at="2019-11-21T14:21:25Z" finished-at="2019-11-21T14:21:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializingBrowser()[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="initializingBrowser" is-config="true" duration-ms="29967" started-at="2019-11-21T14:21:29Z" finished-at="2019-11-21T14:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializingBrowser -->
+        <test-method status="PASS" signature="FormFilling(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="FormFilling" duration-ms="2416" started-at="2019-11-21T14:21:59Z" data-provider="getData" finished-at="2019-11-21T14:22:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[smith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[paul]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormFilling -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="tearDown" is-config="true" duration-ms="3061" started-at="2019-11-21T14:22:01Z" finished-at="2019-11-21T14:22:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializingBrowser()[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="initializingBrowser" is-config="true" duration-ms="25508" started-at="2019-11-21T14:22:04Z" finished-at="2019-11-21T14:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializingBrowser -->
+        <test-method status="PASS" signature="FormFilling(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="FormFilling" duration-ms="2675" started-at="2019-11-21T14:22:30Z" data-provider="getData" finished-at="2019-11-21T14:22:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[devid]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[raj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormFilling -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="tearDown" is-config="true" duration-ms="3183" started-at="2019-11-21T14:22:33Z" finished-at="2019-11-21T14:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializingBrowser()[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="initializingBrowser" is-config="true" duration-ms="26930" started-at="2019-11-21T14:22:36Z" finished-at="2019-11-21T14:23:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializingBrowser -->
+        <test-method status="PASS" signature="parameterscheckin(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="parameterscheckin" duration-ms="2581" started-at="2019-11-21T14:23:03Z" finished-at="2019-11-21T14:23:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[maya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lange]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parameterscheckin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DataDrivenTest@343f4d3d]" name="tearDown" is-config="true" duration-ms="2147" started-at="2019-11-21T14:23:05Z" finished-at="2019-11-21T14:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.DataDrivenTest -->
+    </test> <!-- checking registration page -->
+  </suite> <!-- spiceject applicaion test -->
+</testng-results>
